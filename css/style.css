@@ -179,3 +179,7 @@ body {
   justify-content: center;
   height: 100%;
 }
+
+.footer__img {
+  aspect-ratio: 3.2;
+}
